@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "1Fi Marketplace",
+    "slug": "1fi-marketplace",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.assignment.onefimarketplace"
+    }
+  }
+}
